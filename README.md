@@ -121,7 +121,7 @@
                 </li>
                 <li>
                     <a href="https://www.youtube.com/watch?v=3Q2vnzKDj90" target="_blank">
-                        TAS, Taerget Mode, Maximum Score (9100 points)
+                        TAS, Target Mode, Maximum Score (9100 points)
                     </a>
                 </li>
             </ul>
@@ -181,7 +181,7 @@
                 </li>
                 <li>
                     <a href="https://www.youtube.com/watch?v=oO9NTIxUjJ0" target="_blank">
-                        TAS, Maximum Adventure Points (Pacifist), 1h&nbsp;42m&nbsp;03s
+                        TAS, Maximum Adventure Points as Pacifist (2.125.900 AP), 1h&nbsp;42m&nbsp;03s
                     </a>
                 </li>
             </ul>
