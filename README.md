@@ -77,6 +77,29 @@
         </td>
     </tr>
     <tr>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://github.com/fullmoonissue/tas-aladdin" target="_blank">
+                        Details about the TAS
+                    </a>
+                </li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://github.com/fullmoonissue/tas-bust-a-groove" target="_blank">
+                        Details about the TAS
+                    </a>
+                </li>
+            </ul>
+        </td>
+        <td>
+            &nbsp;
+        </td>
+    </tr>
+    <tr>
         <td align="center">
             <img src="images/odt.jpg" alt="ODT, escape or die trying" />
         </td>
@@ -142,6 +165,17 @@
         </td>
     </tr>
     <tr>
+        <td>
+            &nbsp;
+        </td>
+        <td>
+            &nbsp;
+        </td>
+        <td>
+            &nbsp;
+        </td>
+    </tr>
+    <tr>
         <td align="center">
             <img src="images/syphon-filter-2.jpg" alt="Syphon Filter 2" />
         </td>
@@ -181,7 +215,7 @@
                 </li>
                 <li>
                     <a href="https://www.youtube.com/watch?v=oO9NTIxUjJ0" target="_blank">
-                        TAS, Maximum Adventure Points as Pacifist (2.125.900 AP), 1h&nbsp;42m&nbsp;03s
+                        TAS, Maximum Adventure Points as Pacifist (2.125.900&nbsp;AP), 1h&nbsp;42m&nbsp;03s
                     </a>
                 </li>
             </ul>
@@ -190,17 +224,46 @@
             <ul>
                 <li>
                     <a href="https://www.youtube.com/watch?v=jLQcGUl01io" target="_blank">
-                        TAS, Career Mode, 30 tapes - 3 gold medals - 63 bonus points - 137 gaps, 14m&nbsp;29s (IGT)
+                        TAS, Career Mode, 30&nbsp;tapes - 3&nbsp;gold&nbsp;medals - 63&nbsp;bonus&nbsp;points - 137&nbsp;gaps, 14m&nbsp;29s (IGT)
                     </a>
                 </li>
                 <li>
                     <a href="https://www.youtube.com/playlist?list=PLOritzM6b1Y8ToVXkLwGypGXRIYSX8jMp" target="_blank">
-                        [Playlist] TAS, Career Mode, 30 tapes - 3 gold medals - 63 bonus points - 137 gaps, ILs with overlay
+                        [Playlist] TAS, Career Mode, 30&nbsp;tapes - 3&nbsp;gold&nbsp;medals - 63&nbsp;bonus&nbsp;points - 137&nbsp;gaps, ILs with overlay
                     </a>
                 </li>
                 <li>
                     <a href="https://www.youtube.com/watch?v=5Kb-KNa_x30" target="_blank">
                         TAS, 2 players, 88 gaps, 4m&nbsp;07 (IGT)
+                    </a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://github.com/fullmoonissue/tas-syphon-filter-2" target="_blank">
+                        Details about the TAS
+                    </a>
+                </li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://github.com/fullmoonissue/tas-tomba" target="_blank">
+                        Details about the 3 TAS
+                    </a>
+                </li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://github.com/fullmoonissue/tony-hawk-pro-skater-1" target="_blank">
+                        Investigation about gaps in THPS 1 (PS1)
                     </a>
                 </li>
             </ul>
@@ -236,6 +299,17 @@
                     </a>
                 </li>
             </ul>
+        </td>
+        <td>
+            &nbsp;
+        </td>
+        <td>
+            &nbsp;
+        </td>
+    </tr>
+    <tr>
+        <td>
+            &nbsp;
         </td>
         <td>
             &nbsp;
