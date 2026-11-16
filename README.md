@@ -47,30 +47,34 @@
             </ul>
         </td>
         <td>
+            <h4>Speed : 2</h4>
             <ul>
                 <li>
                     <a href="https://www.youtube.com/watch?v=kPTkihZGlrY" target="_blank">
-                        TAS, 100 puzzles, Speed&nbsp;:&nbsp;2, 10m&nbsp;29s
-                    </a>
-                </li>
-                <li>
-                    <a href="https://www.youtube.com/watch?v=_7yKOdAjblM" target="_blank">
-                        TAS ILs, 100 puzzles, Speed&nbsp;:&nbsp;5, 7m&nbsp;49s
-                    </a>
-                </li>
-                <li>
-                    <a href="https://www.youtube.com/watch?v=LMxgXYxKpno" target="_blank">
-                        TAS ILs, 100 puzzles, Maximum Stars (30), Speed&nbsp;:&nbsp;5, 8m&nbsp;50s
-                    </a>
-                </li>
-                <li>
-                    <a href="https://www.youtube.com/watch?v=dPKOuuCzq54" target="_blank">
-                        TAS ILs, 100 puzzles, Minimum Steps (678), Speed&nbsp;:&nbsp;5, 8m&nbsp;58s
+                        TAS, 100 puzzles, 10m&nbsp;29s
                     </a>
                 </li>
                 <li>
                     <a href="https://www.youtube.com/watch?v=i5ZGqlyCbUs" target="_blank">
-                        TAS, Trial (Coop), Score&nbsp;:&nbsp;999.999, Speed&nbsp;:&nbsp;2, 4m&nbsp;36s
+                        TAS, Trial (Coop), Score&nbsp;:&nbsp;999.999, 4m&nbsp;36s
+                    </a>
+                </li>
+            </ul>
+            <h4>Speed : 5</h4>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=_7yKOdAjblM" target="_blank">
+                        TAS ILs, 100 puzzles, 7m&nbsp;49s
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=LMxgXYxKpno" target="_blank">
+                        TAS ILs, 100 puzzles, Maximum Stars (30), 8m&nbsp;50s
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=dPKOuuCzq54" target="_blank">
+                        TAS ILs, 100 puzzles, Minimum Steps (678), 8m&nbsp;58s
                     </a>
                 </li>
             </ul>
@@ -126,6 +130,7 @@
             </ul>
         </td>
         <td>
+            <h4>Mini games</h4>
             <ul>
                 <li>
                     <a href="https://www.youtube.com/watch?v=e1RWETgbzBQ" target="_blank">
@@ -221,6 +226,7 @@
             </ul>
         </td>
         <td>
+            <h4>1 player</h4>
             <ul>
                 <li>
                     <a href="https://www.youtube.com/watch?v=jLQcGUl01io" target="_blank">
@@ -232,9 +238,12 @@
                         [Playlist] TAS, Career Mode, 30&nbsp;tapes - 3&nbsp;gold&nbsp;medals - 63&nbsp;bonus&nbsp;points - 137&nbsp;gaps, ILs with overlay
                     </a>
                 </li>
+            </ul>
+            <h4>2 players</h4>
+            <ul>
                 <li>
                     <a href="https://www.youtube.com/watch?v=5Kb-KNa_x30" target="_blank">
-                        TAS, 2 players, 88 gaps, 4m&nbsp;07 (IGT)
+                        TAS, 88 gaps, 4m&nbsp;07 (IGT)
                     </a>
                 </li>
             </ul>
