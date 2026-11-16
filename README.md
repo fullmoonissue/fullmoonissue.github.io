@@ -198,11 +198,13 @@
                     <a href="https://www.youtube.com/watch?v=dv51wUhmf4A" target="_blank">
                         TAS, 100%, 1h&nbsp;17m&nbsp;12s
                     </a>
-                </li>
-                <li>
-                    <a href="https://www.youtube.com/playlist?list=PLOritzM6b1Y-63R0f3N9tpRvFlD6ruwkn" target="_blank">
-                        [Playlist] TAS, 100%, ILs with commentaries
-                    </a>
+                    <ul>
+                        <li>
+                            <a href="https://www.youtube.com/playlist?list=PLOritzM6b1Y-63R0f3N9tpRvFlD6ruwkn" target="_blank">
+                                [Playlist] ILs with commentaries
+                            </a>
+                        </li>
+                    </ul>
                 </li>
             </ul>
         </td>
@@ -232,11 +234,13 @@
                     <a href="https://www.youtube.com/watch?v=jLQcGUl01io" target="_blank">
                         TAS, Career Mode, 30&nbsp;tapes - 3&nbsp;gold&nbsp;medals - 63&nbsp;bonus&nbsp;points - 137&nbsp;gaps, 14m&nbsp;29s (IGT)
                     </a>
-                </li>
-                <li>
-                    <a href="https://www.youtube.com/playlist?list=PLOritzM6b1Y8ToVXkLwGypGXRIYSX8jMp" target="_blank">
-                        [Playlist] TAS, Career Mode, 30&nbsp;tapes - 3&nbsp;gold&nbsp;medals - 63&nbsp;bonus&nbsp;points - 137&nbsp;gaps, ILs with overlay
-                    </a>
+                    <ul>
+                        <li>
+                            <a href="https://www.youtube.com/playlist?list=PLOritzM6b1Y8ToVXkLwGypGXRIYSX8jMp" target="_blank">
+                                [Playlist] ILs with overlay
+                            </a>
+                        </li>
+                    </ul>
                 </li>
             </ul>
             <h4>2 players</h4>
