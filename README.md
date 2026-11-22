@@ -8,12 +8,18 @@
     </li>
     <li>
         <a href="https://youtube.com/playlist?list=PLOritzM6b1Y_XC8kF1H1geVW2fAlfaBZA" target="_blank">
-            [Playlist] Tool-Assisted Speedruns
+            [Playlist] My non-obsolete list of TAS / TAP
         </a>
     </li>
 </ul>
 
 ## TASed games
+
+Acronyms :
+
+- TAS : Tool-Assisted Speedrun or Tool-Assisted Superplay
+- TAP : Tool-Assisted Playthrough or Tool-Assisted Playaround
+- IL : Individual Level
 
 <table>
     <tr>
