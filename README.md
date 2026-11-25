@@ -37,8 +37,8 @@ Acronyms :
         <td>
             <ul>
                 <li>
-                    <a href="https://www.youtube.com/watch?v=-A52Z8ZELXE" target="_blank">
-                        TAS, Sultan's Wealth (No Duplicate Points), 18m&nbsp;27s
+                    <a href="https://www.youtube.com/watch?v=M2LUt8KItWM" target="_blank">
+                        TAS, Sultan's Wealth (No Duplicate Points), 17m&nbsp;31s
                     </a>
                 </li>
             </ul>
